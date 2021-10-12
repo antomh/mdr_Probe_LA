@@ -1,0 +1,1 @@
+/* Define all necessary macros and functions */
